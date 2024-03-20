@@ -1,4 +1,4 @@
-# sSecurity audits and findings
+# Security audits and findings
 
 # <a name="Top"></a>My public audits
 
